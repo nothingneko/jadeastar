@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on borderOS with @PizzaLovingNerd
-- 🌱 I’m currently learning System Administration, Python3
-- 💬 Ask me about ...
-- 📫 How to reach me: @Hydromalis#6969 on Discord
-- 😄 Pronouns: He/Him/They/Them
+🔭 I’m currently working on borderOS with @PizzaLovingNerd
+🌱 I’m currently learning System Administration, Python3
+💬 Ask me about Linux
+📫 How to reach me: @Hydromalis#6969 on Discord
+😄 Pronouns: He/Him/They/Them
 -->
