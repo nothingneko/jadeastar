@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Klein (or Hydro)
+### Hi there 👋 I'm Hydro
 
 
 🔭 I’m currently working on borderOS with @PizzaLovingNerd
