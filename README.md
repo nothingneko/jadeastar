@@ -9,5 +9,5 @@
 
 📫 How to reach me: @Hydromalis#6969 on Discord
 
-😄 Pronouns: He/Him/They/Them
+😄 Pronouns: They/Them prefered, but I understand if you use He/Him
 
