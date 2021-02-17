@@ -7,7 +7,7 @@
 
 💬 Ask me about Linux
 
-📫 How to reach me: @Hydromalis#6969 on Discord
+📫 How to reach me: @Hydromalis#6910 on Discord
 
 😄 Pronouns: They/Them
 
