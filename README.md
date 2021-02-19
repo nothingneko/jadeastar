@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hydro
+### Hi there 👋 I'm Anise (Or Star)
 
 
 🔭 I’m currently working on borderOS with @PizzaLovingNerd
@@ -7,7 +7,7 @@
 
 💬 Ask me about Linux
 
-📫 How to reach me: @Hydromalis#6910 on Discord
+📫 How to reach me: @staranise#6910 on Discord
 
 😄 Pronouns: They/Them
 
