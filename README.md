@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anise (Or Star)
+### Hi there 👋 I'm Anise (Or Ani)
 
 
 🔭 I’m currently working on borderOS with @PizzaLovingNerd
@@ -7,7 +7,7 @@
 
 💬 Ask me about Linux
 
-📫 How to reach me: @staranise#6910 on Discord
+📫 How to reach me: @ani#0125 on Discord, @ani#001 on Octii
 
-😄 Pronouns: They/Them
+😄 Pronouns: She/Fae
 
