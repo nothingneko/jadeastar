@@ -11,3 +11,12 @@
 
 😄 Pronouns: She/Fae
 
+
+
+## Discord Members
+Alyx
+@advaithm
+@That-Nerd123
+@trevorthalacker
+Fruityplebel
+Lily
