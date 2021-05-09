@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anise (Or Ani)
+## Hi there 👋 I'm Anise (Or Ani)
 
 
 🔭 I’m currently working on borderOS with @PizzaLovingNerd
@@ -13,7 +13,7 @@
 
 
 
-#### Discord Members
+### Discord Members
 Alyx (https://twitter.com/1nkyd1nky)
 
 Null (https://twitter.com/Nullrequest1)
