@@ -14,9 +14,9 @@
 
 
 ## Discord Members
-Alyx
-@advaithm
-@That-Nerd123
-@trevorthalacker
-Fruityplebel
-Lily
+Alyx (https://twitter.com/1nkyd1nky)
+Null (https://twitter.com/Nullrequest1)
+Charlotte (https://twitter.com/GodUnix)
+Trevor (https://twitter.com/trevorthalacker)
+FruityPlebel (https://twitter.com/FruityPlebel)
+Nab (https://twitter.com/twinkletoesnab)
