@@ -8,3 +8,5 @@
 💬 Ask me about Linux
 
 📫 How to reach me: @ani#0125 on Discord, @ani#001 on Octii
+
+😄 Pronouns: She/It/Fae
