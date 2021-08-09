@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anise (Or Ani)
 
 
-🔭 I’m currently working on a Web Browser, and Policy Manager
+🔭 I’m currently working on a Web Browser, and Linux Distro
 
 🌱 I’m currently learning System Administration, Python3
 
