@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anise</h1>
-<h3 align="center">Backend Dev Doing Frontend Things</h3>
+<h3 align="center">GTK Dev That Wants You To Theme Their Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisestar&label=Profile%20views&color=0e75b6&style=flat" alt="anisestar" /> </p>
 
