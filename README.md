@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anise</h1>
 <h3 align="center">Backend Dev Doing Frontend Things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzanise&label=Profile%20views&color=0e75b6&style=flat" alt="itzanise" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anisestar&label=Profile%20views&color=0e75b6&style=flat" alt="anisestar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzanise" alt="itzanise" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anisestar" alt="anisestar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anise0125" target="blank"><img src="https://img.shields.io/twitter/follow/anise0125?logo=twitter&style=for-the-badge" alt="anise0125" /></a> </p>
 
