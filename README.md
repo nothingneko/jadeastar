@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **OSTree, Vala**
 
-- 👯 On the side I'm working on **GNOME OS port for Raspberry Pi**
+- 👯 On the side I'm working on **My Homelab**
 
 - 👨‍💻 All of my projects are available at [bio.link/anise](bio.link/anise)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Linux, Packaging, and Raspberry Pi**
 
-- 📫 How to reach me **anisestar0125@gmail.com | @ani#0125 on Discord**
+- 📫 How to reach me **anise@e.email | @ani#0125 on Discord**
 
 - Give me money **Cashapp $itzanise**
 
