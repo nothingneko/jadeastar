@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anise (Or Ani)</h1>
+<h1 align="center">Hi 👋, I'm Jade (Or Jae)</h1>
 <h3 align="center">GTK Dev That Wants You To Theme Their Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisestar&label=Profile%20views&color=0e75b6&style=flat" alt="anisestar" /> </p>
@@ -19,13 +19,13 @@
 
 - 💬 Ask me about **Linux, Packaging, and Raspberry Pi**
 
-- 📫 How to reach me **anise@e.email | @ani#0125 on Discord**
+- 📫 How to reach me **jade@e.email | @jae#0125 on Discord**
 
 - Give me money **Cashapp $itzanise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/CatgirlAni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CatgirlAni" height="30" width="40" /></a>
+<a href="https://twitter.com/JadeTheDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CatgirlAni" height="30" width="40" /></a>
 <a href="https://medium.com/@anise0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anise0125" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/itzanise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itzanise" height="30" width="40" /></a>
 <a href="https://discord.gg/RCrf6ZtvKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RCrf6ZtvKB" height="30" width="40" /></a>
