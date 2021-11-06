@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jade (Or Jae)</h1>
 <h3 align="center">GTK Dev That Wants You To Theme Their Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anisestar&label=Profile%20views&color=0e75b6&style=flat" alt="anisestar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadeastar&label=Profile%20views&color=0e75b6&style=flat" alt="jadeastar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anisestar" alt="anisestar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anisestar" alt="jadeastar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/CatgirlAni" target="blank"><img src="https://img.shields.io/twitter/follow/CatgirlAni?logo=twitter&style=for-the-badge" alt="CatgirlAni" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JadeTheDev" target="blank"><img src="https://img.shields.io/twitter/follow/JadeTheDev?logo=twitter&style=for-the-badge" alt="JadeTheDev" /></a> </p>
 
 - 🔭 I’m currently working on [Boop! Linux](https://booplabs.github.io/)
 
@@ -13,9 +13,9 @@
 
 - 👯 On the side I'm working on **My Homelab**
 
-- 👨‍💻 All of my projects are available at [bio.link/anise](bio.link/anise)
+- 👨‍💻 All of my projects are available at [bio.link/jadestar](bio.link/anise)
 
-- 📝 I regularly write articles on [https://medium.com/@anise0125](https://medium.com/@anise0125)
+- 📝 I regularly write articles on [https://medium.com/@jadethedev](https://medium.com/@jadethedev)
 
 - 💬 Ask me about **Linux, Packaging, and Raspberry Pi**
 
