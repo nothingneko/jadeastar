@@ -7,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/JadeTheDev" target="blank"><img src="https://img.shields.io/twitter/follow/JadeTheDev?logo=twitter&style=for-the-badge" alt="JadeTheDev" /></a> </p>
 
-- 🔭 I’m currently working on [Boop! Linux](https://booplabs.github.io/)
+- 🔭 I’m currently working on [tauLinux](https://tau.innatical.com)
 
 - 🌱 I’m currently learning **OSTree, Vala**
 
 - 👯 On the side I'm working on **My Homelab**
 
-- 👨‍💻 All of my projects are available at [bio.link/jadestar](bio.link/anise)
+- 👨‍💻 All of my projects are available at [bio.link/jadestar](jadestar.bio.link)
 
-- 📝 I regularly write articles on [https://medium.com/@jadethedev](https://medium.com/@jadethedev)
+- 📝 I regularly write articles on [https://grindset.dev](https://grindset.dev)
 
 - 💬 Ask me about **Linux, Packaging, and Raspberry Pi**
 
-- 📫 How to reach me **jade@e.email | @jae#0125 on Discord**
-
-- Give me money **Cashapp $itzanise**
+- 📫 How to reach me **jade@e.email | @Jae#3348 on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
