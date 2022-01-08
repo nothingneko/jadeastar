@@ -1,40 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jade (Or Jae)</h1>
-<h3 align="center">GTK Dev That Wants You To Theme Their Apps</h3>
+```
+[jade@thorium ~]$ cat /home/jade/readme.txt
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadeastar&label=Profile%20views&color=0e75b6&style=flat" alt="jadeastar" /> </p>
+Welcome to Jade's GitHub
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anisestar" alt="jadeastar" /></a> </p>
+This is a copy of my Gopherhole!
 
-<p align="left"> <a href="https://twitter.com/JadeTheDev" target="blank"><img src="https://img.shields.io/twitter/follow/JadeTheDev?logo=twitter&style=for-the-badge" alt="JadeTheDev" /></a> </p>
+View it at jade.grindset.dev/gopher (NOT UP YET)
 
-- 🔭 I’m currently working on [tauLinux](https://tau.innatical.com)
 
-- 🌱 I’m currently learning **OSTree, Vala**
 
-- 👯 On the side I'm working on **My Homelab**
+Contact Me:
 
-- 👨‍💻 All of my projects are available at [bio.link/jadestar](jadestar.bio.link)
+Email (mailto:jade@e.email)
 
-- 📝 I regularly write articles on [https://grindset.dev](https://grindset.dev)
+Discord (https://discord.com/invite/RCrf6ZtvKB)
 
-- 💬 Ask me about **Linux, Packaging, and Raspberry Pi**
+Telegram (https://t.me/JadeTheDev)
 
-- 📫 How to reach me **jade@e.email | @Jae#3348 on Discord**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/JadeTheDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CatgirlAni" height="30" width="40" /></a>
-<a href="https://medium.com/@anise0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anise0125" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/itzanise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itzanise" height="30" width="40" /></a>
-<a href="https://discord.gg/RCrf6ZtvKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RCrf6ZtvKB" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> </p>
+On the Internet:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jadeastar&show_icons=true&locale=en&layout=compact" alt="jadeastar" /></p>
+Blog (https://grindset.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jadeastar&show_icons=true&locale=en" alt="jadeastar" /></p>
+Twitter (https://twitter.com/JadeTheDev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadeastar&" alt="jadeastar" /></p>
+GitHub (https://github.com/jadeastar)
 
+
+
+On the Gopherspace:
+
+This Gopherhole (gopher://jade.grindset.dev)
+
+Jamie's Gopherhole (gopher://gopher.jamiethalacker.dev)
+
+
+
+Projects:
+
+Femboy Notes - A fork of Tomboy Notes, but better (https://github.com/jadeastar/femboy)
+
+WebKiosk - WebKit Based Kiosk (https://github.com/jadeastar/webkiosk)
+
+tauOS - A new operating system by Innatical (https://tau.innatical.com)
+
+
+
+Friends:
+
+bingus.link by Jamie Lee (https://bingus.link)
+
+donda 2 by AliceDotJpog (https://youtube.com/playlist?list=PLtHGvgVxI5oBtPTyg5IpJn3Pe-4SBNEsW)
+
+PenisScript by Lea Grey (https://esolangs.org/wiki/PenisScript)
+
+
+
+Misc:
+
+
+License: GPL3
+
+[jade@thorium ~]$ █
+```
